@@ -1,4 +1,4 @@
-# Biblioteca-Virual-Java
+# Biblioteca-Virtual-Java
 Projeto fruto de um desafio proposto pelo ChatGPT.O propósito do projeto foi principalmente treinar,aprimorar manipulação de Listas,aprender mais sobre lógica e sistemas de negócios e também para trabalhar com mecanismos de busca e identificação de objetos.
 
 Dentre as qualidades desta biblioteca,estão: 
